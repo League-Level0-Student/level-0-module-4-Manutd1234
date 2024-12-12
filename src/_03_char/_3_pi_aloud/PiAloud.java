@@ -37,7 +37,7 @@ for(int i=0; i < pi.length(); i++ ) {
         // Use the Sound.speak() method to speak each digit of Pi.
         Sound.speak(pi);
     //}
-
+}
 
     // [CHALLENGE]
     // *6. Get a character from the user using the getInputFromUser() method
